@@ -20,6 +20,7 @@
     "enzyme-adapter-react-16": "^1.15.3",
     "history": "^5.0.0",
     "jest-enzyme": "^7.1.2",
+    "mdbreact": "git+https://oauth2:kc179LMw4fByzE4KB4tu@git.mdbootstrap.com/mdb/react/re-pro.git",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -30,6 +31,7 @@
     "react-test-renderer": "^16.13.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+    "rxjs": "^6.6.2",
     "typescript": "^3.7.5"
   },
   "scripts": {
